@@ -1,0 +1,1 @@
++incdir+\VW_GO2UVM_HOME/src\VW_GO2UVM_HOME/src/vw_go2uvm_pkg.svvw_sv_if_fname vw_test_fname vw_top_fname 
